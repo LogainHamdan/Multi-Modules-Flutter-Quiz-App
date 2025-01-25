@@ -29,7 +29,7 @@ To enhance user excitement and engagement.
 
 5. **Gamification and Enhanced Features**:
    - **Interactive Timer**: A countdown timer keeps users engaged and builds suspense, playing an alert sound when only 5 seconds remain, creating a sense of urgency and excitement.
-   - **Animated Favorite Icon**: The favorite icon is dynamically animated, providing visual feedback by changing color upon correct answers, adding an engaging layer of interactivity.
+   - **Animated Favorite Icon**: The favorite icon is dynamically animated, providing visual feedback by dancing and changing color to red upon correct answers, adding an engaging layer of interactivity.
    - **Immersive Sound Effects**:
      - A celebratory sound plays for correct answers, enhancing the reward experience.
      - A distinct sound indicates incorrect answers, with an option to reveal the correct answer, making the experience more educational and engaging.
