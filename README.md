@@ -19,23 +19,24 @@ The **Quiz App** is a dynamic and gamified application that combines professiona
      - Handles "Forgot Password?" cases, with future plans for implementing verification codes.
 
 3. **Quiz Modules**:
-   - **True/False Quiz**:
-     - Built using local data stored within the project.
-     - Includes multiple levels to enhance user excitement and engagement.
+To enhance user excitement and engagement.
    - **MCQ Quiz**:
      - Fetches data dynamically from an API endpoint.
      - Seamlessly integrates API data with an intuitive user interface.
+   - **True/False Quiz**:
+     - Built using local data stored within the project.
 
-4. **Gamification and Enhanced Features**:
-   - A **timer** that plays a sound when only 5 seconds remain.
-   - **Animated favorite icon** that changes color when the answer is correct.
-   - **Sound effects** for correct and incorrect answers:
-     - Green highlight for correct answers.
-     - Red highlight for incorrect answers, with the option to reveal the correct answer.
-   - **Navigation Buttons**:
-     - "Next" and "Show Answer" buttons only appear after the timer ends or the user answers.
-   - **Progress Bar**:
-     - Creates a gamified flow, making the experience more engaging.
+
+5. **Gamification and Enhanced Features**:
+   - **Interactive Timer**: A countdown timer keeps users engaged and builds suspense, playing an alert sound when only 5 seconds remain, creating a sense of urgency and excitement.
+   - **Animated Favorite Icon**: The favorite icon is dynamically animated, providing visual feedback by changing color upon correct answers, adding an engaging layer of interactivity.
+   - **Immersive Sound Effects**:
+     - A celebratory sound plays for correct answers, enhancing the reward experience.
+     - A distinct sound indicates incorrect answers, with an option to reveal the correct answer, making the experience more educational and engaging.
+   - **Dynamic Navigation Buttons**:
+     - "Next" and "Show Answer" buttons are intelligently displayed only after the timer ends or the user submits an answer, ensuring focus and anticipation during gameplay.
+   - **Gamified Progress Bar**:
+     - A visually appealing progress bar adds a game-like flow, motivating users to advance and complete quizzes while tracking their performance.
 
 ---
 
