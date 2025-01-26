@@ -68,6 +68,12 @@ To enhance user excitement and engagement.
 
 ---
 
+## 🎥 Video Walkthrough
+
+[Click here to view the video walkthrough](https://drive.google.com/file/d/1F6ydqMgzhgkxUAiJZW8I0LhFiaNW12cl/view?usp=sharing)
+
+---
+
 ## 📱 Screenshots
 
 ### App Icon
@@ -105,13 +111,6 @@ To enhance user excitement and engagement.
 
 ### True or False Result Summary
 ![Results Summary](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-35-34-885_com.miui.videoplayer.jpg)
-
-
----
-
-## 🎥 Video Walkthrough
-
-[Click here to view the video walkthrough](https://drive.google.com/file/d/1F6ydqMgzhgkxUAiJZW8I0LhFiaNW12cl/view?usp=sharing)
 
 ---
 
