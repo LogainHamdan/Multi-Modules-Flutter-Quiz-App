@@ -72,12 +72,6 @@ To enhance user excitement and engagement.
 
 ---
 
-## 🎥 Video Walkthrough
-
-[Click here to view the video walkthrough](https://drive.google.com/file/d/1F6ydqMgzhgkxUAiJZW8I0LhFiaNW12cl/view?usp=sharing)
-
----
-
 ## 📱 Screenshots
 
 ### App Icon
