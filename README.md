@@ -6,6 +6,10 @@ A Flutter application with two quiz modules that allows users to answer question
 
 The **Quiz App** is a dynamic and gamified application that combines professionalism with an engaging user experience. It includes the following features:
 
+## 🎥 Video Walkthrough
+
+[Click here to view the video walkthrough](https://drive.google.com/file/d/1F6ydqMgzhgkxUAiJZW8I0LhFiaNW12cl/view?usp=sharing)
+
 ### Key Features
 1. **App Icon and Splash Screen**:
    - The app icon prominently displays the application logo.
