@@ -77,61 +77,35 @@ To enhance user excitement and engagement.
 ![Main Screen](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-56-543_com.miui.videoplayer.jpg)
 
 ### Sign Up Screen
-![sign up](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-59-022_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-30-09-114_com.miui.videoplayer.jpg)
-![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-27-318_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-40-635_com.miui.videoplayer.jpg)
+![sign up](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-59-022_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-30-09-114_com.miui.videoplayer.jpg) ![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-27-318_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-40-635_com.miui.videoplayer.jpg)
 
 ### Login Screen
-![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-57-413_com.miui.videoplayer.jpg)
-![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-02-279_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-04-593_com.miui.videoplayer.jpg)
+![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-30-57-413_com.miui.videoplayer.jpg) ![alt](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-02-279_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-04-593_com.miui.videoplayer.jpg)
 
 ### Home Screen
 ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-13-541_com.miui.videoplayer.jpg)
 
 ### Module Description Screen
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-07-403_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-15-334_com.miui.videoplayer.jpg)
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-07-403_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-15-334_com.miui.videoplayer.jpg)
 
 ### MCQ Quiz
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-19-459_com.miui.videoplayer.jpg)
-![]()
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-23-906_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-25-726_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-33-341_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-35-910_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-41-987_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-49-047_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-53-892_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-57-914_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-02-480_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-05-140_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-07-933_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-13-680_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-13-680_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-21-097_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-30-782_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-34-851_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-52-605_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-08-373_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-20-008_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-22-516_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-25-370_com.miui.videoplayer.jpg)
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-19-459_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-23-906_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-25-726_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-33-341_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-35-910_com.miui.videoplayer.jpg)
+
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-41-987_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-49-047_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-53-892_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-31-57-914_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-02-480_com.miui.videoplayer.jpg)
+
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-05-140_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-07-933_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-13-680_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-21-097_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-30-782_com.miui.videoplayer.jpg)
+
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-34-851_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-32-52-605_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-08-373_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-20-008_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-22-516_com.miui.videoplayer.jpg)
 
 ### MCQ Result Summary
 ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-33-25-370_com.miui.videoplayer.jpg)
 
 ### True/False Quiz
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-34-35-962_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-34-40-281_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-25-920_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-39-370_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-41-449_com.miui.videoplayer.jpg)
-![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-52-373_com.miui.videoplayer.jpg)
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-34-35-962_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-34-40-281_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-25-920_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-39-370_com.miui.videoplayer.jpg) ![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-36-41-449_com.miui.videoplayer.jpg)
 
 ### True or False Result Summary
 ![Results Summary](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/aaaadf4422b0288d7c33e980f133a696e9e1da6f/Screenshot_2025-01-25-21-35-34-885_com.miui.videoplayer.jpg)
+
 
 ---
 
