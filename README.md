@@ -21,11 +21,10 @@ The **Quiz App** is a dynamic and gamified application that combines professiona
 3. **Quiz Modules**:
 To enhance user excitement and engagement.
    - **MCQ Quiz**:
-     - Fetches data dynamically from an API endpoint.
+     - Fetches data dynamically from an API endpoint (https://api.jsonserve.com/Uw5CrX)
      - Seamlessly integrates API data with an intuitive user interface.
    - **True/False Quiz**:
      - Built using local data stored within the project.
-
 
 5. **Gamification and Enhanced Features**:
    - **Interactive Timer**: A countdown timer keeps users engaged and builds suspense, playing an alert sound when only 5 seconds remain, creating a sense of urgency and excitement.
@@ -71,11 +70,20 @@ To enhance user excitement and engagement.
 
 ## 📱 Screenshots
 
+### App Icon
+![app icon](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-51-370_com.miui.videoplayer.jpg)
+
 ### Splash Screen
-![Main Screen](https://via.placeholder.com/300)
+![Main Screen](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-56-543_com.miui.videoplayer.jpg)
 
 ### Home Screen
 ![Main Screen](https://via.placeholder.com/300)
+
+### Sign Up Screen
+![sign up](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-29-59-022_com.miui.videoplayer.jpg)
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-30-09-114_com.miui.videoplayer.jpg)
+### Login Screen
+![login] (https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/55fa6d32a59a8add6793f1116a5aa2fcfdeeaad0/Screenshot_2025-01-25-21-30-01-485_com.miui.videoplayer.jpg)
 
 ### Module Description Screen
 ![Main Screen](https://via.placeholder.com/300)
