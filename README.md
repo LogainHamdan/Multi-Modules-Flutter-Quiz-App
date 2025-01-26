@@ -21,6 +21,8 @@ The **Quiz App** is a dynamic and gamified application that combines professiona
      - Includes mandatory fields to ensure comprehensive user data.
      - Features a "Create an Account" button in the login view, navigating to the signup screen.
      - Handles "Forgot Password?" cases, with future plans for implementing verification codes.
+     - Handles the validation of email address, the matching between password and password confirmation, and required fields to be filled.
+     - Red SnackBar used with an error message, and green SnackBar for successful validation.
 
 3. **Quiz Modules**:
 To enhance user excitement and engagement.
@@ -40,6 +42,11 @@ To enhance user excitement and engagement.
      - "Next" and "Show Answer" buttons are intelligently displayed only after the timer ends or the user submits an answer, ensuring focus and anticipation during gameplay.
    - **Gamified Progress Bar**:
      - A visually appealing progress bar adds a game-like flow, motivating users to advance and complete quizzes while tracking their performance.
+   - **Progress Descriptive Row**:
+      - For each question, a set of icons is displayed to indicate the status of the user's answer:
+      - Red False Icon (Cross): If the user selects an incorrect answer.
+      - Green Check/Tick Icon: If the user selects the correct answer.
+      - Question Mark Icon: If the user skips the question without answering, or the time is up.
 
 ---
 
