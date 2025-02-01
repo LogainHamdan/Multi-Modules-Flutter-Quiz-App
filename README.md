@@ -2,6 +2,8 @@
 
 A Flutter application with two quiz modules that allows users to answer questions and view their results. This app is built in Android Studio and is hosted on GitHub.
 
+![](https://github.com/LogainHamdan/Multi-Modules-Flutter-Quiz-App/blob/1a828fe5d43f1a5ebc263f1e08b5e8532ee2821c/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(4).jpg)
+
 ## 📜 Project Overview
 
 The **Quiz App** is a dynamic and gamified application that combines professionalism with an engaging user experience. It includes the following features:
